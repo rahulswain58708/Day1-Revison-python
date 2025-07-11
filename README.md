@@ -1,7 +1,6 @@
-# 🧠 Day 12 – Python Variables & Data Types (Revision)
+# 🧠 Day 1 – Python Variables & Data Types (Revision)
 
 👋 Hi, I'm Rahul — future AI/ML engineer and entrepreneur.  
-This is my **Day 12** of the #100DaysOfCode challenge.
 
 ---
 
